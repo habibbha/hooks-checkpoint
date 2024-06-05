@@ -14,6 +14,7 @@ const App = () => {
       posterURL: 'https://m.media-amazon.com/images/I/912AErFSBHL._AC_UF1000,1000_QL80_.jpg',
       rating: 8.8,
       genre: 'A mind-bending thriller',
+      backimg:'https://m.media-amazon.com/images/S/pv-target-images/e826ebbcc692b4d19059d24125cf23699067ab621c979612fd0ca11ab42a65cb._SX1080_FMjpg_.jpg',
     },
     {
       title: 'The Matrix',
@@ -21,6 +22,7 @@ const App = () => {
       posterURL: 'https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg',
       rating: 8.7,
       genre: 'A sci-fi classic',
+      backimg:'https://wp-pa.phonandroid.com/uploads/2024/04/matrix-5e-film.jpg',
     },
     {
       title: ' The Usual Suspect',
@@ -28,6 +30,7 @@ const App = () => {
       posterURL: 'https://www.tvguide.com/a/img/catalog/provider/1/2/1-172369979.jpg',
       rating: 10,
       genre: 'Crime-Drama-Mystery',
+      backimg:'https://m.media-amazon.com/images/M/MV5BYmI2NTk3ODQtYWFiNC00NDgxLTkxY2UtYTNhNTI3YTNkNzdmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_QL75_UX500_CR0,47,500,281_.jpg',
     },
     {
       title: 'The Godfather',
@@ -35,6 +38,7 @@ const App = () => {
       posterURL: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRWU4BB_TIirPXQyr6BJpNkh0aYJ3HuhOxlg&s',
       rating: 9.2,
       genre: 'Crime-Drama',
+      backimg:'https://cdn.britannica.com/55/188355-050-D5E49258/Salvatore-Corsitto-The-Godfather-Marlon-Brando-Francis.jpg',
     },
     {
       title: 'The Lord of the Rings',
@@ -42,6 +46,7 @@ const App = () => {
       posterURL: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJBhSj6SGjvDroTSsOzr_8UaVZmFFXAtmdlg&s',
       rating: 9.0,
       genre: 'Action-Adventure-Drama',
+      backimg:'https://hips.hearstapps.com/hmg-prod/images/lordoftherings-1636391090.jpg?crop=0.6666666666666666xw:1xh;center,top&resize=1200:*',
     },
     {
       title: 'Gladiator',
@@ -49,6 +54,7 @@ const App = () => {
       posterURL: 'https://m.media-amazon.com/images/I/71qx-AMnP-L._AC_UF894,1000_QL80_.jpg',
       rating: 8.5,
       genre: 'Action-Adventure-Drama',
+      backimg:'https://cdn.britannica.com/93/77293-050-CF984388/Russell-Crowe-Gladiator.jpg',
     },
     // Add more initial movies if needed
   ]);
